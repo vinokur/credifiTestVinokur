@@ -7,6 +7,10 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
+/**
+ * Created by user on 4/25/2017.
+ */
+
 public class CredifiSearchTest extends TestNgTestBase {
 
   public static String textSearch1 = "120 Wall St";

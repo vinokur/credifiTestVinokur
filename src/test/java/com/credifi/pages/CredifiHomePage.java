@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 /**
- * Sample page
+ * Created by user on 4/25/2017.
  */
 public class CredifiHomePage extends Page {
 
